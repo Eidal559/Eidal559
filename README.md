@@ -1,4 +1,4 @@
-# Hi, I'm <Ladie>! 👋
+# Hi, I'm Ladie! 👋
 
 I am a software engineer student at Holberton School, driven by a curiosity for technology and a love for coding. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
