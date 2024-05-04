@@ -2,7 +2,7 @@
 
 I am a software engineer student at Holberton School, driven by a curiosity for technology and a love for coding. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Eidal559=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eidal559)](https://github.com/Eidal559/github-readme-stats)
 
 ## 🚀 About Me
 
