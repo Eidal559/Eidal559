@@ -21,7 +21,7 @@ I am a software engineer student at Holberton School, driven by a curiosity for 
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning cybersecurity
+- 🚀 Learning Full-Stacked_Web_development
   - Exploring the ins and outs of nodejs and bootstrap for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
@@ -29,7 +29,7 @@ I am a software engineer student at Holberton School, driven by a curiosity for 
 
  ## 🏆 Achievements
 
-- 🌟 
+- 🌟 Graduated from Holberton School and got the certification for Foundations of Computer Science and Software Engineering.
 
 
 ## 📬 Get in Touch
